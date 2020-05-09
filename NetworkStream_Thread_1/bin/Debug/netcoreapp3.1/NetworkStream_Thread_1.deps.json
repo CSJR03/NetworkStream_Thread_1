@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NetworkStream_Thread_1/1.0.0": {
+        "runtime": {
+          "NetworkStream_Thread_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetworkStream_Thread_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

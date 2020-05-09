@@ -1,0 +1,13 @@
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\bin\Debug\netcoreapp3.1\Client.deps.json
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.json
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\bin\Debug\netcoreapp3.1\Client.runtimeconfig.dev.json
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\obj\Debug\netcoreapp3.1\Client.csprojAssemblyReference.cache
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\obj\Debug\netcoreapp3.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfoInputs.cache
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\obj\Debug\netcoreapp3.1\Client.AssemblyInfo.cs
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\obj\Debug\netcoreapp3.1\Client.dll
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\obj\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Vardan\source\repos\NetworkStream_Thread_1\Client\obj\Debug\netcoreapp3.1\Client.genruntimeconfig.cache
